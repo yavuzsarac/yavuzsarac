@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi there, I'm Yavuz Saraç! 👋<br><br>I'm a 21-year-old Computer Engineering student at **Ankara Medipol University**.<br><br>🚀 **My Core Focus:**<br>I am passionate about building intelligent systems and solving complex problems using **Artificial Intelligence**. My goal is to bridge the gap between theoretical AI concepts and real-world applications.<br><br>💻 **Technical Stack & Skills:**<br><br>* **AI & Data:** Python, Machine Learning, Deep Learning<br>* **Core Engineering:** Java, Data Structures & Algorithms, System Programming<br>* **Web Development:** HTML, CSS, JavaScript<br><br>Currently, I'm expanding my knowledge in AI while maintaining a strong grasp of software engineering fundamentals.<br><br>---<br>[📫 Connect with me on LinkedIn](#) | [Portfolio](#)<br><br># Hi there, I'm Yavuz Saraç! 👋<br><br>I'm a 21-year-old Computer Engineering student at **Ankara Medipol University**.<br><br>🚀 **My Core Focus:**<br>I am passionate about building intelligent systems and solving complex problems using **Artificial Intelligence**. My goal is to bridge the gap between theoretical AI concepts and real-world applications.<br><br>💻 **Technical Stack & Skills:**<br><br>* **AI & Data:** Python, Machine Learning, Deep Learning<br>* **Core Engineering:** Java, Data Structures & Algorithms, System Programming<br>* **Web Development:** HTML, CSS, JavaScript<br><br>Currently, I'm expanding my knowledge in AI while maintaining a strong grasp of software engineering fundamentals.<br><br>---<br>[📫 Connect with me on LinkedIn](https://www.linkedin.com/in/myavuzsarac/)<br><br><br><br><br># Selamlar, Ben Yavuz Saraç! 👋<br><br>Ankara Medipol Üniversitesi'nde 21 yaşında bir Bilgisayar Mühendisliği öğrencisiyim.<br><br>🚀 **Ana Odağım:**<br>Akıllı sistemler inşa etmek ve **Yapay Zeka** kullanarak karmaşık problemleri çözmek üzerine çalışıyorum. Hedefim, teorik AI konseptlerini gerçek dünya uygulamalarıyla birleştirmek.<br><br>💻 **Teknik Yetkinlikler:**<br><br>* **Yapay Zeka & Veri:** Python, Makine Öğrenmesi (ML), Derin Öğrenme (DL)<br>* **Mühendislik Temelleri:** Java, Veri Yapıları ve Algoritmalar, Sistem Programlama<br>* **Web Geliştirme:** HTML, CSS, JavaScript<br><br>Şu anda yazılım mühendisliği temellerimi sağlam tutarken, yapay zeka alanında derinleşmeye devam ediyorum.<br><br>---<br>[📫 LinkedIn Hesabım](https://www.linkedin.com/in/myavuzsarac/) 
 
-<!--
-**yavuzsarac/yavuzsarac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/myavuzsarac) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yavuz Saraç) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yyavuzsarac@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yavuzsarac&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yavuzsarac&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzsarac&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=yavuzsarac&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
